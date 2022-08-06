@@ -1,7 +1,0 @@
-Started by user [8mha:////4J4BlI+5aap+ky5smEJ9+QvH7sWmulU62BHgXKSZc3E+AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CJ9oHWlFYkpuZl5AIVT5D/FAAAA[0mbalakrishnan
-Running as SYSTEM
-Building in workspace /var/lib/jenkins/workspace/firstjob
-[firstjob] $ /bin/sh -xe /tmp/jenkins4133237992666009382.sh
-+ echo first job
-first job
-Finished: SUCCESS
